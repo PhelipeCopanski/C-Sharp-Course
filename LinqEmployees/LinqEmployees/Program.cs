@@ -1,6 +1,5 @@
 ﻿using System.Globalization;
 using LinqEmployees.Entities;
-using System.Linq;
 
 namespace LinqEmployees
 {
@@ -48,5 +47,4 @@ namespace LinqEmployees
             }
         }
     }
-}
 }
